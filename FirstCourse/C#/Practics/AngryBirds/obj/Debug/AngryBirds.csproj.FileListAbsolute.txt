@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\obj\Debug\AngryBirds.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\obj\Debug\AngryBirds.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\bin\Debug\AngryBirds.exe.config
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\bin\Debug\AngryBirds.exe
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\bin\Debug\AngryBirds.pdb
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\bin\Debug\TestingRoom.dll
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\obj\Debug\AngryBirds.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\obj\Debug\AngryBirds.exe
+C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\AngryBirds\obj\Debug\AngryBirds.pdb
