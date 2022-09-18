@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\bin\Debug\TestingRoom.dll
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\obj\Debug\Rectangles.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\obj\Debug\Rectangles.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\obj\Debug\Rectangles.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\User\OneDrive\Документы\Programming\UrFU\FirstCourse\C#\Practics\Rectangles\obj\Debug\Rectangles.pdb
