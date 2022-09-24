@@ -1,9 +1,0 @@
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\obj\Debug\Pluralize.csproj.AssemblyReference.cache
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\obj\Debug\Pluralize.csproj.SuggestedBindingRedirects.cache
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\bin\Debug\rubles.txt
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\bin\Debug\Pluralize.exe.config
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\bin\Debug\Pluralize.exe
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\bin\Debug\Pluralize.pdb
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\obj\Debug\Pluralize.exe
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\Pluralize\obj\Debug\Pluralize.pdb

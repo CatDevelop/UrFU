@@ -1,7 +1,0 @@
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\BankPercent\BankPercent\bin\Debug\BankPercent.exe
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\BankPercent\BankPercent\bin\Debug\BankPercent.pdb
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\BankPercent\BankPercent\obj\Debug\BankPercent.csproj.AssemblyReference.cache
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\BankPercent\BankPercent\obj\Debug\BankPercent.csproj.SuggestedBindingRedirects.cache
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\BankPercent\BankPercent\obj\Debug\BankPercent.csproj.CoreCompileInputs.cache
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\BankPercent\BankPercent\obj\Debug\BankPercent.exe
-C:\Users\User\OneDrive\Документы\Programming\URFU\C#\Practics\BankPercent\BankPercent\obj\Debug\BankPercent.pdb
