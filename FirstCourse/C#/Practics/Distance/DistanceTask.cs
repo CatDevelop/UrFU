@@ -33,20 +33,27 @@ namespace DistanceTask
 		/// <returns>Расстояние от точки C(x, y) до отрезка AB с координатами A(ax, ay), B(bx, by)</returns>
 		public static double GetDistanceToSegment(double ax, double ay, double bx, double by, double x, double y)
 		{
-			double a = GetDistanceToPoint(x, y, bx, by); // BC
-			double b = GetDistanceToPoint(x, y, ax, ay); // AC
-			double c = GetDistanceToPoint(ax, ay, bx, by); // AB
+			var lengthSegmentBC = GetDistanceToPoint(x, y, bx, by);
+			var lengthSegmentAC = GetDistanceToPoint(x, y, ax, ay);
+			var lengthSegmentAB = GetDistanceToPoint(ax, ay, bx, by);
 
-			double p = (a+b+c)/ 2;
-			double s = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+			// Находим площадь череp полупериметр
+			// S = sqrt(p(p-a)(p-b)(p-c))
+			// p = (a+b+c)/2
+			var p = (lengthSegmentBC+lengthSegmentAC+lengthSegmentAB)/ 2;
+			var square = Math.Sqrt(p * (p - lengthSegmentBC) * (p - lengthSegmentAC) * (p - lengthSegmentAB));
+
+			var squareBC = lengthSegmentBC * lengthSegmentBC;
+			var squareAB = lengthSegmentAB * lengthSegmentAB;
+			var squareAC = lengthSegmentAC * lengthSegmentAC;
 			
 			if (IsEqualDouble(ax, bx) && IsEqualDouble(ay, by)) 
 				return GetDistanceToPoint(x, y, ax, ay); // Не отрезок, а точка 
-			else if (IsEqualDouble(c, a + b)) 
+			else if (IsEqualDouble(lengthSegmentAB, lengthSegmentBC + lengthSegmentAC)) 
 				return 0; // точка на отрезке
-			else if (a * a + c * c < b * b ||  b * b + c * c < a * a ) 
-				return Math.Min(a, b); // Тупоугольный треугольник
-			else return (2*s)/ c;
+			else if (squareBC + squareAB < squareAC || squareAC + squareAB < squareBC) 
+				return Math.Min(lengthSegmentBC, lengthSegmentAC); // Тупоугольный треугольник
+			return (2 * square) / lengthSegmentAB;
 		}
 	}
 }
